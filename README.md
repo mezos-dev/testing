@@ -1,10 +1,9 @@
-[![Use this template](https://img.shields.io/badge/Use_this_template-blue?style=for-the-badge&logo=github)](https://github.com/mezos-dev/Mezos/generate)
 
 ---
 
 # 🧩 MEZOS — FiveM Developer | QBCore & ESX Expert
 
-![MEZOS Logo](./mezos-logo.png)
+![MEZOS Logo](./mezos-logo.jpg)
 
 
 > 🎯 *Bringing creativity, optimization, and realism to the FiveM world — one line of code at a time.*
