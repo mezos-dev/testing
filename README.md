@@ -4,7 +4,8 @@
 
 # 🧩 MEZOS — FiveM Developer | QBCore & ESX Expert
 
-![MEZOS Logo]([Mezos Logo](./mezos-logo.png))
+![MEZOS Logo](./mezos-logo.png)
+
 
 > 🎯 *Bringing creativity, optimization, and realism to the FiveM world — one line of code at a time.*
 
